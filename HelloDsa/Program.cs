@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Hello, World! I'm going to practice DSA in c#");
+﻿using HelloDsa.Algos;
+
+MyBinarySearch binarySearch = new MyBinarySearch();
+Console.WriteLine(binarySearch.MyResult([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
