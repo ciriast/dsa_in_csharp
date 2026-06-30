@@ -1,0 +1,14 @@
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/bin/Debug/net8.0/HelloDsa
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/bin/Debug/net8.0/HelloDsa.deps.json
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/bin/Debug/net8.0/HelloDsa.runtimeconfig.json
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/bin/Debug/net8.0/HelloDsa.dll
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/bin/Debug/net8.0/HelloDsa.pdb
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/HelloDsa.GeneratedMSBuildEditorConfig.editorconfig
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/HelloDsa.AssemblyInfoInputs.cache
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/HelloDsa.AssemblyInfo.cs
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/HelloDsa.csproj.CoreCompileInputs.cache
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/HelloDsa.dll
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/refint/HelloDsa.dll
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/HelloDsa.pdb
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/HelloDsa.genruntimeconfig.cache
+/home/ciri/workspace/github.com/ciriast/dsa_in_csharp/HelloDsa/obj/Debug/net8.0/ref/HelloDsa.dll
